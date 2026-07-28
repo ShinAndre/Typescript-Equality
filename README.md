@@ -3,6 +3,11 @@
 
 Progetto didattico in **TypeScript** che modella professioniste, programmi di formazione e piattaforme digitali per promuovere pari opportunità e diversità di genere.
 
+## Avvio
+Per l'avvio,puoi cliccare il seguente link e visualizzarlo tramite Codepen :
+
+https://codepen.io/ShinAndre/pen/jEyeLBE
+
 ## Struttura
 
 ```
@@ -14,12 +19,3 @@ Progetto didattico in **TypeScript** che modella professioniste, programmi di fo
 - **ProfessionistaMedia**: `nome`, `cognome`, `specializzazione`, `esperienza[]`, `interessi[]` → `partecipaProgramma()`
 - **ProgrammaFormazione**: `titolo`, `descrizione`, `ambitoSpecializzazione`, `durata`, `elencoPartecipanti[]` → `aggiungiPartecipante()`
 - **Piattaforma**: `nome`, `tipo`, `descrizione`, `categoriaContenuto[]` → `pubblicaContenuto()`
-
-## Avvio
-Per l'avvio,puoi cliccare il seguente link e visualizzarlo tramite Codepen :
-
-https://codepen.io/ShinAndre/pen/jEyeLBE
-
-## Tecnologie
-
-TypeScript.
